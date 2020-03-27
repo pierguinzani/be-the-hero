@@ -39,7 +39,8 @@ Extras:
 
 ## 💻 Projeto
 
-O **Be The Hero** é um projeto que visa conectar pessoas interessadas em ajudar ongs com campanhas abertas.
+O **Be The Hero** é um projeto que auxilia as ONG's a registrar incidentes de animais e procurar pessoas (heróis) que estão querendo ajudar com alguma quantia.
+
 
 ## 🤔 Como contribuir
 
