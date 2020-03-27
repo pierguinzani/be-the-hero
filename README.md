@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-Become the hero for someone or ask for help - Web application made with React
+🚀 Semana OmniStack 11.0
 </p>
 
 
