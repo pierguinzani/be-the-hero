@@ -1,13 +1,11 @@
 <h1 align="center">
-    <img alt="Semana OmniStack" src=".github/logo.svg" width="200px" />
+    <img src="https://user-images.githubusercontent.com/58868651/77574616-0deb1b80-6eb1-11ea-9a2b-3cfd3297ba0d.png" />
 </h1>
 
-<h2 align="center">
+<p align="center">
+Become the hero for someone or ask for help - Web application made with React
+</p>
 
-  <img alt="Semana OmniStack" src=".github/rocket.svg" width="200px" />
-  <br/>
-  🚀 Semana Omnistack 11.0
-</h2>
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
