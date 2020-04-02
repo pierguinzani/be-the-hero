@@ -1,6 +1,16 @@
 <h1 align="center">
     <img src="https://user-images.githubusercontent.com/58868651/77574616-0deb1b80-6eb1-11ea-9a2b-3cfd3297ba0d.png" />
 </h1>
+<div align="center">
+
+  #### Aplicação completa para conectar Ongs que precisam de ajuda a usuários dispostos a ajudar
+
+
+  ![](https://img.shields.io/badge/autor-Maykon%20Sousa-brightgreen)
+  ![](https://img.shields.io/badge/Back--End-NodeJS-brightgreen)
+  ![](https://img.shields.io/badge/Front--End-ReactJS-brightgreen)
+  ![](https://img.shields.io/badge/Mobile-React%20Native-brightgreen)
+</div> 
 
 <p align="center">
 🚀 Semana OmniStack 11.0
